@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.b76accbb.chunk.css",
-    "main.js": "/static/js/main.4eeab04d.chunk.js",
-    "main.js.map": "/static/js/main.4eeab04d.chunk.js.map",
+    "main.js": "/static/js/main.9c295353.chunk.js",
+    "main.js.map": "/static/js/main.9c295353.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.57e2d255.js",
     "runtime-main.js.map": "/static/js/runtime-main.57e2d255.js.map",
-    "static/js/2.9751fd54.chunk.js": "/static/js/2.9751fd54.chunk.js",
-    "static/js/2.9751fd54.chunk.js.map": "/static/js/2.9751fd54.chunk.js.map",
+    "static/js/2.5711b570.chunk.js": "/static/js/2.5711b570.chunk.js",
+    "static/js/2.5711b570.chunk.js.map": "/static/js/2.5711b570.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4aa7dfad357813c3d24fb5bf6ace4257.js": "/precache-manifest.4aa7dfad357813c3d24fb5bf6ace4257.js",
+    "precache-manifest.4fde431fd10b5699ec0380d508272845.js": "/precache-manifest.4fde431fd10b5699ec0380d508272845.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b76accbb.chunk.css.map": "/static/css/main.b76accbb.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/a.png": "/static/media/a.b38dd6fa.png",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/b.png": "/static/media/b.436db1fd.png",
     "static/media/blogs_image.svg": "/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
@@ -40,7 +40,6 @@
     "static/media/manOnTable.svg": "/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.95a12a2b.png",
-    "static/media/portfolio.gif": "/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
@@ -51,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.57e2d255.js",
-    "static/js/2.9751fd54.chunk.js",
+    "static/js/2.5711b570.chunk.js",
     "static/css/main.b76accbb.chunk.css",
-    "static/js/main.4eeab04d.chunk.js"
+    "static/js/main.9c295353.chunk.js"
   ]
 }
